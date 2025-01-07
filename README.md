@@ -23,7 +23,7 @@ I strive to deliver quality through end-to-end testing and a thorough understand
 
 ## 📂 **Portfolio & Resume**
 - 🌐 **Portfolio Website**: *Coming Soon!*  
-- 📄 **Resume**: [View My Resume](#) *(Upload your resume to Google Drive or GitHub and replace the link.)*
+- 📄 **Resume**: [View My Resume](#)
 
 ---
 
